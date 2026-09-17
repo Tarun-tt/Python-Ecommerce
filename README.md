@@ -4,7 +4,7 @@ Prerna's is an online Python Ecommerce website built with Django, SQLite and Boo
 
 # Get Started
 
-To setup the PyShop project, here is the following guidelines:
+To setup the prerna project, here is the following guidelines:
 
 - Open Project folder on terminal
 - Prepare your virtual environment <code>python3 -m venv venv</code>

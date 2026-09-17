@@ -12,5 +12,5 @@ def index(request):
 
 
 def new(request):
-    return HttpResponse('Welcome to PyShop New Arrivals')
+    return HttpResponse('Welcome to prerna New Arrivals')
 
